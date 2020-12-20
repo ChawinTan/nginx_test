@@ -17,3 +17,10 @@ configuration file /etc/nginx/nginx.conf test is successful
 7) If not, run `sudo ln -s /etc/nginx/sites-available/nginx_test /etc/nginx/sites-enabled/` and repeat step 6 to test again
 8) Go to `localhost:80/hello` and you should see `Hello World` in h1 font
 
+### Helpful links
+
+https://linuxize.com/post/how-to-set-up-nginx-server-blocks-on-debian-9/#:~:text=By%20default%20on%20Debian%20systems,%2Fsites%2Denabled%2F%20directory.&text=You%20can%20name%20the%20configuration,to%20use%20the%20domain%20name.
+
+https://ubuntu.com/tutorials/install-and-configure-nginx#1-overview
+
+https://stackoverflow.com/questions/5009324/node-js-nginx-what-now
